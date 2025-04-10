@@ -1,0 +1,4 @@
+_BASE_: "../Base-BAText.yaml"
+DATASETS:
+  TRAIN: ("trudi_train",)
+  TEST: ("trudi_test",)

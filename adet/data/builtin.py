@@ -33,6 +33,9 @@ _PREDEFINED_SPLITS_TEXT = {
     "icdar2013_train": ("icdar2013/train_images", "icdar2013/ic13_train.json"),
     "icdar2015_train": ("icdar2015/train_images", "icdar2015/ic15_train.json"),
     "icdar2015_test": ("icdar2015/test_images", "icdar2015/ic15_test.json"),
+    "trudi_train": ("trudi/train_images", "trudi/annotations/train.json"),
+    "trudi_val": ("trudi/val_images", "trudi/annotations/val.json"),
+    "trudi_test": ("trudi/test_images", "trudi/annotations/test.json"),
 }
 
 metadata_text = {
